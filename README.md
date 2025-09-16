@@ -58,6 +58,9 @@ This project demonstrates recursion, randomness, and user interaction through th
 .
 ├── Word-based dungeon adventure😎.py   # Main game script
 └── stranger_structure.txt              # Grammar rules for stranger’s sentences
+├── test_game.py                       
+└── README.md                          
+
 ```
 
 ## Example Gameplay
