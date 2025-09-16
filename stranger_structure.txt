@@ -1,0 +1,17 @@
+<s>: <intro> <warning> <advice>
+
+<intro>: Beware, traveler! | Listen closely... | The shadows whisper... | I must warn you...
+
+<warning>: <danger> | <mystery>
+
+<danger>: the dungeon is cursed. | monsters lurk in every corner. | the stairs lead only deeper into darkness. | the mirror realm twists your soul.
+
+<mystery>: not all treasures are what they seem. | a rare diamond may bring both fortune and doom. | the stranger you meet may not be real.
+
+<advice>: <guidance> | <guidance> <extra>
+
+<guidance>: do not trust the mirrors. | follow the sound of dripping water. | take the left path when the torches flicker. | leave behind what you cannot carry.
+
+<extra>: and remember, <reminder> | for soon, <reminder>
+
+<reminder>: the dungeon watches you. | your choices shape your fate. | every step echoes forever. | no one escapes unchanged.
